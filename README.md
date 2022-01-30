@@ -44,4 +44,4 @@ Furthermore, detailing the fundamental workings of machine learning algorithms a
   - v. Fit the model on the training dataset. (Make the model learn)
   - vi. Test the model
 
-### Note: - The Models have been tested on Mac M1
+##### Note: - The Models have been tested on Mac M1
