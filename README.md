@@ -30,13 +30,13 @@ Furthermore, detailing the fundamental workings of machine learning algorithms a
 - Test the accuracy of the model.
 
 # Algorithm
-1) Import the relevant libraries.
-2) Data Collection and Preprocess the Data.
+### 1) Import the relevant libraries.
+### 2) Data Collection and Preprocess the Data.
   - i. Load the Dataset.
   - ii. Split the Dataset training and testing dataset.
   - iii. Optimise the training and the testing performance.
   - iv. Perform Data Augmentation.
-3) Model Outlining (Customised ResNet152)
+### 3) Model Outlining (Customised ResNet152)
   - i. Load the pre-trained ResNet152 Model. (without feed-forward NN)
   - ii. Add Customised CNN on top of ResNet152 Model.
   - iii. Combine ResNet152 and Customised CNN.
