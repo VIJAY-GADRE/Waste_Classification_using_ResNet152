@@ -33,7 +33,7 @@ Furthermore, detailing the fundamental workings of machine learning algorithms a
 ### 1) Import the relevant libraries.
 ### 2) Data Collection and Preprocess the Data.
   - i. Load the Dataset.
-  - ii. Split the Dataset training and testing dataset.
+  - ii. Split the Dataset into training and testing dataset.
   - iii. Optimise the training and the testing performance.
   - iv. Perform Data Augmentation.
 ### 3) Model Outlining (Customised ResNet152)
@@ -41,4 +41,7 @@ Furthermore, detailing the fundamental workings of machine learning algorithms a
   - ii. Add Customised CNN on top of ResNet152 Model.
   - iii. Combine ResNet152 and Customised CNN.
   - iv. Optimise the algorithm.
-  - v. Fit hte model on the training dataset. (Make the model learn)
+  - v. Fit the model on the training dataset. (Make the model learn)
+  - vi. Test the model
+
+### Note: - The Models have been tested on Mac M1
