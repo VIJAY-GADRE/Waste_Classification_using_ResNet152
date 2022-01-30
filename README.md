@@ -22,4 +22,23 @@ The goal of this project is to contribute to the development and improvement of 
 
 Furthermore, detailing the fundamental workings of machine learning algorithms and the advantages they may offer to humanity in the future will help society get a better understanding and faith in such new exponential technologies. Furthermore, concentrating on the adoption of new disruptive ways to try to tackle environmental problems raises our collective awareness of the need of environmental protection, allowing for the possible application of new sustainable habits in our everyday lives.
 
-# Implementation
+# Action Plan
+- Prepare the dataset and preprocess it. (Create training, validation, and testing datasets)
+- Outline the Model and choose the activation function/s.
+- Set the appropriate advanced optimizers and the loss functions.
+- Make the Model learn. (Backpropagation)
+- Test the accuracy of the model.
+
+# Algorithm
+1) Import the relevant libraries.
+2) Data Collection and Preprocess the Data.
+  - i. Load the Dataset.
+  - ii. Split the Dataset training and testing dataset.
+  - iii. Optimise the training and the testing performance.
+  - iv. Perform Data Augmentation.
+3) Model Outlining (Customised ResNet152)
+  - i. Load the pre-trained ResNet152 Model. (without feed-forward NN)
+  - ii. Add Customised CNN on top of ResNet152 Model.
+  - iii. Combine ResNet152 and Customised CNN.
+  - iv. Optimise the algorithm.
+  - v. Fit hte model on the training dataset. (Make the model learn)
